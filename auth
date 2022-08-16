@@ -1,0 +1,6 @@
+# Modify the "host:port" and "username:port" lines to match your environment.
+# If you do not use any authentication, set the AUTH variable to "0" (Leave the quotation marks).
+# If using SSL, change the SSL variable to "1".
+SERVER="host:port"
+AUTH="username:password"
+SSL="1"
